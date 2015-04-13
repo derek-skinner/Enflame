@@ -1,4 +1,4 @@
-# <img src="favicons/Inflame_Logo.png" alt="Inflame" title="Inflame" width="400">
+# <img src="https://github.com/derek-skinner/Inflame/blob/master/favicons.ico/Inflame_Logo.png" alt="Inflame" title="Inflame" width="400">
 
 This project is meant to be used as a starting boilerplate to your web projects. Includes folder structures, Favicons. task automation, grunt plugins, and more.
 
