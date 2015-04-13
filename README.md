@@ -11,9 +11,9 @@ This project is meant to be used as a starting boilerplate to your web projects.
 If you don't already have the following installed, you will need to install these first:
 
 * Node.js
-* Node: npm
+* npm
 * Ruby
-* Ruby: Sass 3.3.x
+* Sass
 
 After you've set this stuff up please run
 
