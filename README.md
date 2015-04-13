@@ -62,8 +62,7 @@ Feel free to contribute and help this project grow! Any support and/or feedback 
 
 ## CSS
 
-We are currently working with [Sass](http://sass-lang.com/) (in its dialect
-SCSS) and do not use CSS directly. Please do not edit the CSS-files in any case
+Inflame was built with the idea that your project will be using Sass. Please do not edit the CSS-files in any case
 but search the corresponding `.scss` file and edit it accordingly. If you are
 not familiar with SCSS you can write pure CSS which is actually valid SCSS.
 
