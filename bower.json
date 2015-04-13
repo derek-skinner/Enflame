@@ -1,0 +1,12 @@
+{
+  "name": "Inflame",
+  "version": "1.0.0",
+  "main": "",
+  "ignore": [],
+  "dependencies": {
+    "jquery": "1.11.1",
+    "normalize-scss": "3.0.2",
+    "modernizr": "2.8.3",
+    "requirejs": "2.1.15"
+  }
+}
