@@ -5,6 +5,7 @@ This project is meant to be used as a starting boilerplate to your web projects.
 [![Dependency Status](https://david-dm.org/derek-skinner/Inflame.svg)](https://david-dm.org/derek-skinner/Inflame)
 [![devDependency Status](https://david-dm.org/derek-skinner/Inflame/dev-status.svg)](https://david-dm.org/derek-skinner/Inflame#info=devDependencies)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
+[![Code Climate](https://codeclimate.com/github/derek-skinner/Inflame/badges/gpa.svg)](https://codeclimate.com/github/derek-skinner/Inflame)
 
 ## Dependencies
 
