@@ -1,4 +1,4 @@
-# <img src="http://rawgithub.com/use-init/init/master/logo.svg" alt="Inflame" title="Inflame" width="200">
+# <img src="favicons/Inflame_Logo.png" alt="Inflame" title="Inflame" width="400">
 
 This project is meant to be used as a starting boilerplate to your web projects. Includes folder structures, Favicons. task automation, grunt plugins, and more.
 
