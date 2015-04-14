@@ -68,6 +68,9 @@ However all `.scss`-files are compiled into one file called `main.css` in the
 You can find more information about the installation process of Sass and the
 usage of SCSS in the [Sass Tutorial](http://sass-lang.com/tutorial.html).
 
+If you need help installing Sass on your Windows machine, you can follow this great tutorial:
+[Sass Tutorial - Windows](https://medium.com/@ricardozea/sass-for-beginners-the-friendliest-guide-about-how-to-install-use-sass-on-windows-22ff4a32c1f7)
+
 
 ## JS
 
@@ -94,6 +97,8 @@ This project is developed and maintained by
 
 
 ## Credits
+
+[Ricardo Zea](https://github.com/ricardozea) - Windows Sass Tutorial for beginners
 
 Credits will be added here as needed.
 
