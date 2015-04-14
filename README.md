@@ -92,7 +92,7 @@ Additional information on this project is stored in `package.json`.
 ## Development
 
 This project is developed and maintained by
-[Derek Skinner](http://derekskinner.tv/),
+[Derek Skinner](http://derekskinner.tv/)
 
 
 
