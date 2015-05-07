@@ -1,5 +1,7 @@
 # <img src="https://github.com/derek-skinner/Inflame/blob/master/favicons.ico/Inflame_Logo.png" alt="Inflame" title="Inflame" width="400">
 
+[![Join the chat at https://gitter.im/derek-skinner/Inflame](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/derek-skinner/Inflame?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This project is meant to be used as a starting boilerplate to your web projects. Includes folder structures, Favicons. task automation, grunt plugins, and more.
 
 [![Dependency Status](https://david-dm.org/derek-skinner/Inflame.svg)](https://david-dm.org/derek-skinner/Inflame)
