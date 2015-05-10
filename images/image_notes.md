@@ -1,0 +1,1 @@
+Grunt will watch the src folder for image changes, then automatically optimize them and put them into the dist folder.
