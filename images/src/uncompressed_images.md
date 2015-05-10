@@ -1,1 +1,0 @@
-Put your uncompressed files in this folder
