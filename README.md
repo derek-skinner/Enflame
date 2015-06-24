@@ -43,10 +43,13 @@ admin-rights:
 
 	$ sudo npm install -g grunt-cli
 
+	$ sudo npm install
+
+
 
 ## Browser support
 
-* Chrome
+sudo * Chrome
 * Firefox 4+
 * Internet Explorer 8+
 * Opera 12+
